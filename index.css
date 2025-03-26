@@ -1,8 +1,12 @@
-body{color:#fffafa;
-    background-image:url(../Simbolo\ Neuro.jpg);
+body{
+    color:hsl (0 %, 0 %, 100 %);
+    background-image:../Simbolo Neuro.jpg;
+    background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100 %;
+    width: 100vw;
+    height: 100vh;
     background-position: left;
 
 }
