@@ -3,17 +3,19 @@ h1{
     text-align: center;
 }
 body{
-    color:rgb (0, 0, 100);
-    background-image:url(../Simbolo\ Neuro.jpg);
-    background-color: hsl (0, 5, 11);
+    color:hsl (0 %, 0 %, 100 %);
+    background-image:../Simbolo Neuro.jpg;
+    background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     background-repeat: no-repeat;
-    background-size: 100;
-    width: 100;
-    height: 100;
+    background-size: 100 %;
+    width: 100 vw;
+    height: 100 vh;
     background-position: left;
 
 }
+
+
 
 
 nav ul{
